@@ -23,7 +23,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="By Luthfulahi"
+        android:text="By Huzein Afeez Babatunde- 2016235020063"
         android:textColor="#fff"
         android:fontFamily="monospace"
         android:textAppearance="?android:attr/textAppearanceSmall"
